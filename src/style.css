@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/02/22/genderjpg-20230222083337.jpg");
+    background-size: cover;
+}
+
+li.active {
+    background-color: #ada4a4;
+}
+
+header {
+    background-color: #41a9cd;
+    display: flex;
+}
+
+nav {
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    width: 100%;
+    padding: 25px 0 25px 25px;
+    gap: 58px;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Anna",
+    "gender": "female",
+    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
+  },
+
+  {
+    "name": "Ben",
+    "gender": "male",
+    "picture": "https://cdn-icons-png.flaticon.com/512/3884/3884851.png"
+  },
+
+  {
+    "name": "Laura",
+    "gender": "female",
+    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
+  },
+
+  {
+    "name": "Alex",
+    "gender": "female",
+    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
+  },
+
+  {
+    "name": "Miya",
+    "gender": "female",
+    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
+  },
+
+  {
+    "name": "Kevin",
+    "gender": "male",
+    "picture": "https://cdn-icons-png.flaticon.com/512/3884/3884851.png"
+  },
+
+  {
+    "name": "Melisa",
+    "gender": "female",
+    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
+  },
+
+  {
+    "name": "Kris",
+    "gender": "male",
+    "picture": "https://cdn-icons-png.flaticon.com/512/3884/3884851.png"
+  }
+]
