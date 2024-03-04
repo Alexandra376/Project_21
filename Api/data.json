@@ -1,49 +1,49 @@
 [
   {
-    "name": "Anna",
-    "gender": "female",
-    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
-  },
-
-  {
-    "name": "Ben",
+    "name": "Hulk",
     "gender": "male",
-    "picture": "https://cdn-icons-png.flaticon.com/512/3884/3884851.png"
+    "picture": "https://c0.klipartz.com/pngpicture/607/390/gratis-png-maravilla-el-increible-arte-de-hulk-vista-frontal.png"
   },
 
   {
-    "name": "Laura",
-    "gender": "female",
-    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
-  },
-
-  {
-    "name": "Alex",
-    "gender": "female",
-    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
-  },
-
-  {
-    "name": "Miya",
-    "gender": "female",
-    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
-  },
-
-  {
-    "name": "Kevin",
+    "name": "Spider-Man",
     "gender": "male",
-    "picture": "https://cdn-icons-png.flaticon.com/512/3884/3884851.png"
+    "picture": "https://w7.pngwing.com/pngs/420/700/png-transparent-spider-man-spider-man-spider-man.png"
   },
 
   {
-    "name": "Melisa",
-    "gender": "female",
-    "picture": "https://cdn-icons-png.flaticon.com/512/4329/4329449.png"
-  },
-
-  {
-    "name": "Kris",
+    "name": "Garfield",
     "gender": "male",
-    "picture": "https://cdn-icons-png.flaticon.com/512/3884/3884851.png"
+    "picture": "https://e1.pngegg.com/pngimages/955/161/png-clipart-garfield-garfield-illustration-thumbnail.png"
+  },
+
+  {
+    "name": "Grinch",
+    "gender": "male",
+    "picture": "https://w7.pngwing.com/pngs/183/2/png-transparent-grinch.png"
+  },
+
+  {
+    "name": "Elsa",
+    "gender": "female",
+    "picture": "https://e7.pngegg.com/pngimages/927/795/png-clipart-elsa-anna-frozen-kristoff-olaf-anna-frozen-fictional-character-cartoon.png"
+  },
+
+  {
+    "name": "Jasmin",
+    "gender": "female",
+    "picture": "https://w7.pngwing.com/pngs/337/853/png-transparent-princess-jasmine-aladdin-belle-rapunzel-ariel-princess-jasmine.png"
+  },
+
+  {
+    "name": "Masha",
+    "gender": "female",
+    "picture": "https://kartinki.pics/uploads/posts/2022-02/1644879743_1-kartinkin-net-p-masha-i-medved-kartinki-1.png"
+  },
+
+  {
+    "name": "Lilo",
+    "gender": "female",
+    "picture": "https://w7.pngwing.com/pngs/841/586/png-transparent-stitch-lilo-pelekai-lilo-and-stitch-lilo-dance-lilo-from-lilo-stitch-illustration-leaf-hand-the-walt-disney-company.png"
   }
 ]

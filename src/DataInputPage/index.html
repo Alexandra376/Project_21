@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div style="display: none" class="loader" id="loader"></div>
   <header>
     <nav>
       <ul>
@@ -23,13 +24,12 @@
       <form id="form" action="">
         <label for="">Determine your gender</label>
         <label>
-          <input name="form" type="text" placeholder="Enter your name" required>
+          <input id="input" name="form" type="text" placeholder="Enter your name" required>
         </label>
-        <button type="submit">Send</button>
+        <button class="submit-button" type="submit">Send</button>
       </form>
     </main>
   </div>
-  <script src="../script.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

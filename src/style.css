@@ -10,6 +10,8 @@ body {
 
 li.active {
     background-color: #ada4a4;
+    padding: 25px 5px;
+    box-shadow: #dbd8d8;
 }
 
 header {
@@ -24,13 +26,50 @@ nav {
 ul {
     display: flex;
     width: 100%;
-    padding: 25px 0 25px 25px;
     gap: 58px;
     list-style-type: none;
     font-size: 20px;
+    align-items: center;
 }
 
 li a {
     text-decoration: none;
     color: white;
+}
+
+main {
+    max-width: 870px;
+    margin: 0 auto;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+
+.button {
+    width: 100px;
+    height: 50px;
+    background: #ff5c69;
+    border: none;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+}
+.button-container .button {
+    margin-right: 70px;
+    background: #41a9cd;
+}
+
+.button:hover {
+    background: coral;
+}
+
+.button.red {
+    background: #ff5c69;
+}
+
+.button.red:hover {
+    background: coral;
 }
